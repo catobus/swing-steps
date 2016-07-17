@@ -1,6 +1,12 @@
 import java.awt.*;
 import javax.swing.*;
 
+/**
+ * A sample that illustrates how to combine GridLayout and GridBagLayout to size buttons properly in a menu panel. 
+ * 
+ * @see http://stackoverflow.com/a/15687011/1048330 for original context
+ * 
+* /
 public class DemoButtons {
     public DemoButtons() {
         final JFrame frame = new JFrame("Demo buttons");
