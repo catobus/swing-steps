@@ -6,7 +6,7 @@ import javax.swing.*;
  * 
  * @see http://stackoverflow.com/a/15687011/1048330 for original context
  * 
-* /
+*/
 public class DemoButtons {
     public DemoButtons() {
         final JFrame frame = new JFrame("Demo buttons");
