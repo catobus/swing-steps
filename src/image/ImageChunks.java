@@ -13,6 +13,12 @@ import javax.imageio.ImageReader;
 import javax.imageio.stream.ImageInputStream;
 import javax.swing.*;
 
+/**
+ * ImageChunks demo application illustrates use of ImageReader 
+ * and ImageReadParam to read fragments of image. 
+ * 
+ * @see http://stackoverflow.com/a/15149382/1048330
+ */
 public class ImageChunks {
     private static void createAndShowUI() {
         try {
