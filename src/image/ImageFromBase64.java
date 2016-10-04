@@ -13,6 +13,11 @@ import javax.swing.JOptionPane;
 
 import org.apache.commons.codec.binary.Base64;
 
+/**
+ * ImageFromBase64 how to encode and decode Image to a Base64 string.
+ * 
+ * @see http://stackoverflow.com/a/10327584/1048330
+ */
 public class ImageFromBase64 {
 	public static void main(String[] args) {
 		try {
